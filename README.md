@@ -6,7 +6,7 @@ Source code and other accessory materials for my talks.
 
 | Date | Event | Location | Laguage | Talk | Links |
 |------|-------|----------|---------|------|-------|
-| 2024-11-15 | HolyJS 2024 Autumn | Saint Petersburg, Russia | RU | Web3 Solana for JavaScript Developers | [Slides](https://squidex.jugru.team/api/assets/srm/a432fc24-7f4d-44f1-8f84-3582b773d996/holyjs-osens-2024-prezentaciya.pdf) |
+| 2024-11-15 | HolyJS 2024 Autumn | Saint Petersburg, Russia | RU | Web3 Solana for JavaScript Developers | [Slides](https://squidex.jugru.team/api/assets/srm/a432fc24-7f4d-44f1-8f84-3582b773d996/holyjs-osens-2024-prezentaciya.pdf) [Video](https://youtu.be/vA5O5baY6us?feature=shared) |
 
 
 ## Talks
